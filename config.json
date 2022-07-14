@@ -1,0 +1,14 @@
+{
+  "prefix": "-",
+  "serverAddress": "au1.hival.net",
+  "serverPort": "25033",
+  "serverName": "Asteroid",
+  "updateInterval": "1min",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true,
+  "pinId": "996849878598692885",
+  "pinGuildId": "470185583889743872",
+  "pinChanId": "973486309203132417"
+}
